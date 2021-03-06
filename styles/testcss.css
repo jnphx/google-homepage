@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+  }
+  .col {
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+  }
+  .col2 {
+    background-color: blue;
+  }
+  .container div {
+    flex: 1;
+    background-color: red;
+  } 

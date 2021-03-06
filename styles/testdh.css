@@ -1,0 +1,14 @@
+.donkey {
+    background-color: teal;
+    float:left;
+}
+
+.horns {
+    background-color: goldenrod;
+    float: right;
+}
+
+.logostuff {
+    background-color: indigo;
+    margin: 0 auto;
+}
